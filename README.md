@@ -16,7 +16,7 @@ The career will include recommendation for:
 * Penetration Tester
     - [Network Penetration Tester](attacker/pentester-network.md)
     - [Mobile App Penetration Tester](attacker/pentester-mobile-app.md)
-    - Web Penetration Tester
+    - [Web Penetration Tester](attacker/pentester-web.md)
 * Exploit Developer
 * Adversarial Engineer
 
