@@ -23,7 +23,7 @@ The career will include recommendation for:
 ## DEFENDER
 
 * SOC (Security Operation Center) Member
-* Threat Hunter
+* [Threat Hunter](defender/threat-hunter.md)
 * Detected Engineer
 * Digital Forensic Investigator
 * Malware Analyst
